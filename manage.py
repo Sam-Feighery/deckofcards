@@ -2,6 +2,8 @@
 import os
 import sys
 
+# Hello World! 
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spades.settings")
 
